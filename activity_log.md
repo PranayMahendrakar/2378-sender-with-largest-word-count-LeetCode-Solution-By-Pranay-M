@@ -9,3 +9,4 @@
 - [2026-05-04T22:24:34Z] chore: remove deprecated API calls
 - [2026-05-04T15:45:41Z] chore: update dependencies to latest versions
 - [2026-05-04T12:37:08Z] perf: optimize loop for better performance
+- [2026-05-04T10:38:39Z] fix: resolve edge case in input validation
