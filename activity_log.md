@@ -6,3 +6,4 @@
 - [2026-04-02T13:06:02Z] fix: handle null pointer exception
 - [2026-04-02T09:52:29Z] fix: resolve edge case in input validation
 - [2026-05-04T17:59:34Z] perf: optimize loop for better performance
+- [2026-05-04T22:24:34Z] chore: remove deprecated API calls
